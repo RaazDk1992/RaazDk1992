@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaazDk1992
 - 👀 I’m interested in Java,android, Python and Django application development
-- 🌱 I’m currently learning Django, react
+- 🌱 I’m currently learning Django, react, flutter
 
 - 📫 find me on :
 facebook : facebook.com/RaazDk.1992
