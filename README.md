@@ -4,7 +4,7 @@
 
 - 📫 find me on :
 facebook : facebook.com/RaazDk.1992
-g-mail : dhakal1992raaz@gmail.com
+e-mail : dhakalbharat007@gmail.com
 outlook/skype: raazdk@outlook.com
 
 <!---
